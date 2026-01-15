@@ -6,7 +6,7 @@ using a Kaggle dataset.
 ## Dataset
 Kaggle: "Are Your Employees Burning Out?" (Employee Burnout)
 Download the data from Kaggle and place the CSV files in a local `data/` folder (e.g. `data/train.csv`).
-
+(https://www.kaggle.com/datasets/redwankarimsony/hackerearth-employee-burnout-challenge)
 ## Models
 - Linear Regression (Burn Rate prediction)
 - Logistic Regression, KNN (burnout risk classification)
